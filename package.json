@@ -1,0 +1,22 @@
+{
+  "name": "xplan-news-parser",
+  "version": "0.0.1",
+  "description": "XPlan news parser (to adapt modile).",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "~0.12.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/XadillaX/xplannewsparser.git"
+  },
+  "author": "XadillaX",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/XadillaX/xplannewsparser/issues"
+  }
+}
