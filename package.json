@@ -1,6 +1,6 @@
 {
   "name": "xplan-news-parser",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "XPlan news parser (to adapt modile).",
   "main": "index.js",
   "dependencies": {
