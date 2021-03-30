@@ -4,7 +4,7 @@
   "description": "XPlan news parser (to adapt modile).",
   "main": "index.js",
   "dependencies": {
-    "cheerio": "~0.12.4"
+    "cheerio": "~0.14.0"
   },
   "devDependencies": {},
   "scripts": {
